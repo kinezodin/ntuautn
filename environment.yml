@@ -1,0 +1,16 @@
+name: ntuatn
+channels:
+- anaconda
+- conda-forge
+- defaults
+dependencies:
+- tensorflow
+- Keras==2.2.4
+- librosa==0.8.1
+- pysoundfile
+- pandas
+- matplotlib
+- scikit-learn
+- tqdm==4.42.1
+- Pillow==7.0.0
+- lime
