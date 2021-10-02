@@ -14,3 +14,4 @@ dependencies:
 - tqdm==4.42.1
 - Pillow==7.0.0
 - lime
+- scikit-image
